@@ -15,3 +15,4 @@ Página com theme switcher utilizando HTML, CSS e JavaScript.
 Melhorias implantadas por mim:
 - Possibilidade de visualizar as fotos da galeria em _fullsceern_ ao clicá-las.
 - Inverte as fotos da galeria ao clicá-las no mundo invertido (_dark mode_), além de aumentá-las.
+- Criação de arquivo js para receber o _script_ que estava imbutido no HTML.
